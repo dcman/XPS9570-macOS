@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>This file is for Dell XPS 15 9570 (https://github.com/bavariancake/XPS9570-macOS)</string>
+	<string>This file is a fork of for 1080P screens of Dell XPS 15 9570 (https://github.com/bavariancake/XPS9570-macOS)</string>
 	<key>ACPI</key>
 	<dict>
 		<key>AutoMerge</key>
@@ -218,7 +218,7 @@
 				<key>Comment-dpcd-max-link-rate</key>
 				<string>0x14 for 4k displays, or 0x0a for 1080p</string>
 				<key>dpcd-max-link-rate</key>
-				<data>FAAAAA==</data>
+				<data>CgAAAA==</data>
 				<key>enable-dpcd-max-link-rate-fix</key>
 				<data>AQAAAA==</data>
 				<key>Comment-fb-portcount</key>
@@ -251,7 +251,7 @@
 				<key>Comment-layout-id</key>
 				<string>AppleALC layout-id for ALC298 (ALC3266 according to Dell) audio</string>
 				<key>layout-id</key>
-				<integer>30</integer>
+				<integer>72</integer>
 			</dict>
 		</dict>
 	</dict>
